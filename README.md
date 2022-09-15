@@ -1,1 +1,1 @@
-This course for contains tutorials for Beginners
+This course contains tutorials for Beginners
