@@ -1,4 +1,4 @@
-import numpy as np
+
 import cv2
 
 img = cv2.imread('Resources/1.png')
